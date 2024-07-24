@@ -95,7 +95,7 @@
 //   // Initial render of movies
 //   renderMovies();
   
-const API_URL = "http://localhost:3000/initialMovies";
+const API_URL = "https://jsday2-rayviniths-projects.vercel.app/initialMovies";
 
 document.addEventListener("DOMContentLoaded", () => {
   fetchMovies();
