@@ -1,0 +1,46 @@
+body {
+   
+   
+    align-items: center;
+    justify-content: center;
+  }
+  .main{
+   
+    align-items: center;
+    justify-content: center;
+  }
+  .form{
+   
+    align-items: center;
+    justify-content: center;
+  }
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    margin-top: 20px;
+    padding: 10px 20px;
+  }
+
+
+ .lists{
+   
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+   
+ }
+.card{
+   object-fit: contain;
+   width: 300px;
+   height: 300px;
+  
+}

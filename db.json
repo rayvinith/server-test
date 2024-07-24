@@ -1,0 +1,79 @@
+{
+  "initialMovies": [
+    {
+      "name": "Inception",
+      " releaseDate": "2010-07-16",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.8
+    },
+    {
+      "name": "The Dark Knight",
+      " releaseDate": "2008-07-18",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 9
+    },
+    {
+      "name": "Interstellar",
+      " releaseDate": "2014-11-07",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.6
+    },
+    {
+      "name": "Parasite",
+      " releaseDate": "2019-05-30",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.6
+    },
+    {
+      "name": "Avengers: Endgame",
+      " releaseDate": "2019-04-26",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.4
+    },
+    {
+      "name": "The Matrix",
+      " releaseDate": "1999-03-31",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.7
+    },
+    {
+      "name": "Pulp Fiction",
+      " releaseDate": "1994-10-14",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.9
+    },
+    {
+      "name": "Forrest Gump",
+      " releaseDate": "1994-07-06",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 8.8
+    },
+    {
+      "name": "The Shawshank Redemption",
+      " releaseDate": "1994-09-22",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 9.3
+    },
+    {
+      "id": "74d7",
+      "name": "admin",
+      "releaseDate": "0444-12-31",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 3
+    },
+    {
+      "id": "e371",
+      "name": "2024",
+      "releaseDate": "2024-07-17",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 1
+    },
+    {
+      "id": "888a",
+      "name": "test1",
+      "releaseDate": "2022-12-02",
+      "posterURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-gx_wAfGjWBDuLmFxaJQjYF5-6ZL6XdAX1Q&s",
+      "imdbRating": 3
+    }
+  ]
+}
