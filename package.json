@@ -1,5 +1,13 @@
 {
+
+  "description": "JSON server for movies",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080"
+  },
+
   "dependencies": {
     "json-server": "^1.0.0-beta.1"
   }
+  
 }
