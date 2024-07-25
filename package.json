@@ -1,7 +1,7 @@
 {
 
   "description": "JSON server for movies",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "json-server --watch db.json --port 8080"
   },
